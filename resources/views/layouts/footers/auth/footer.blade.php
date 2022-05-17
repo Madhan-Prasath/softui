@@ -1,22 +1,21 @@
 <footer class="footer pt-3  ">
-    <div class="container-fluid">
+    <div class="container-fluid" >
         <div class="row align-items-center justify-content-lg-between">
             <div class="col-lg-6 mb-lg-0 mb-4">
-                <div class="copyright text-center text-sm text-muted text-lg-start">
+                <div class="" align="right" >
                     © <script>
                         document.write(new Date().getFullYear())
-                    </script>, made with <i class="fa fa-heart"></i> by
-                    <a href="https://www.creative-tim.com" class="font-weight-bold" target="_blank">Creative Tim</a>&amp; <a style="color: #252f40;" href="https://www.updivision.com" class="font-weight-bold ml-1" target="_blank">UPDIVISION</a>
-                    for a better web.
+                    </script>
+                    <a href="https://bitsathy.ac.in" class="font-weight-bold" target="_blank"> IT OPERATIONS &nbsp; @ &nbsp;BIT</a>
                 </div>
             </div>
-            <div class="col-lg-6">
+            {{-- <div class="col-lg-6">
                 <ul class="nav nav-footer justify-content-center justify-content-lg-end">
                     <li class="nav-item">
-                        <a href="https://www.creative-tim.com" class="nav-link text-muted" target="_blank">Creative Tim</a>
+                        <a href="https://www.creative-tim.com" class="nav-link text-muted" target="_blank">BIT</a>
                     </li>
                     <li class="nav-item">
-                        <a href="https://www.updivision.com" class="nav-link text-muted" target="_blank">UPDIVISION</a>
+                        <a href="https://www.updivision.com" class="nav-link text-muted" target="_blank">IT OPERATIONS</a>
                     </li>
                     <li class="nav-item">
                         <a href="https://www.creative-tim.com/presentation" class="nav-link text-muted" target="_blank">About Us</a>
@@ -28,7 +27,7 @@
                         <a href="https://www.creative-tim.com/license" class="nav-link pe-0 text-muted" target="_blank">License</a>
                     </li>
                 </ul>
-            </div>
+            </div> --}}
         </div>
     </div>
 </footer>
